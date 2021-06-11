@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/iss-location-finder/static/css/main.11e777ee.chunk.css",
+    "main.js": "/iss-location-finder/static/js/main.cf63c983.chunk.js",
+    "main.js.map": "/iss-location-finder/static/js/main.cf63c983.chunk.js.map",
+    "runtime-main.js": "/iss-location-finder/static/js/runtime-main.c923021c.js",
+    "runtime-main.js.map": "/iss-location-finder/static/js/runtime-main.c923021c.js.map",
+    "static/js/2.49440a81.chunk.js": "/iss-location-finder/static/js/2.49440a81.chunk.js",
+    "static/js/2.49440a81.chunk.js.map": "/iss-location-finder/static/js/2.49440a81.chunk.js.map",
+    "index.html": "/iss-location-finder/index.html",
+    "static/css/main.11e777ee.chunk.css.map": "/iss-location-finder/static/css/main.11e777ee.chunk.css.map",
+    "static/js/2.49440a81.chunk.js.LICENSE.txt": "/iss-location-finder/static/js/2.49440a81.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c923021c.js",
+    "static/js/2.49440a81.chunk.js",
+    "static/css/main.11e777ee.chunk.css",
+    "static/js/main.cf63c983.chunk.js"
+  ]
+}
